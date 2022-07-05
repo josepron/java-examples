@@ -22,8 +22,8 @@ class Result {
     public static void miniMaxSum(List<Integer> arr) {
         // Write your code here
         Collections.sort(arr);
-        int sumMin = 0;
-        int sumMax = 0;
+        long sumMin = 0;
+        long sumMax = 0;
         for (int i = 0; i < 4; i++)
         {
             sumMin += arr.get(i);
