@@ -15,7 +15,7 @@ Complete the miniMaxSum function in the editor below.
 
 miniMaxSum has the following parameter(s):
 
--arr: an array of 5 integers
+- arr: an array of 5 integers
 
 **Print**
 
